@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+apt-get update
+apt-get install wget
 wget https://storage.googleapis.com/mltechnicalanalysis/train_data.zip
 unzip train_data.zip -d train_data
 pip install torch
