@@ -1,1 +1,1 @@
-# TwilightGAN
+# FlambientGAN
